@@ -7,7 +7,7 @@ This project is an SQL-based analysis aiming to explore different facets of the 
 
 Dataset
 
-The dataset contains data collected from Olist, a Brazilian e-commerce platform, between 2016 and 2018. It includes various tables, such as order details, customer information, product categories, and more.
+The dataset contains data collected , a Brazilian e-commerce platform, between 2016 and 2018. It includes various tables, such as order details, customer information, product categories, and more.
 
 
 
